@@ -1,0 +1,9 @@
+Place	Abbrev	Color	Position	Price	Rent	BuildingRent	BuildingCost
+Hilltop Circle	GO-HC	GO	0	-1	0	4	5
+Albin O. Kuhn Library	LB	JAIL	7	-1	-1	-1	-1
+Potomac Hall	PotH	Violet	8	140	10	750	100
+Free Parking	FrPrk	PARK	16	-1	-1	-1	-1
+Meyerhoff Building	Meyer	Yellow	22	260	22	1150	150
+Go to Library	Study	GTJ	25	-1	-1	-1	-1
+ITE	ITE	Green	27	300	26	1275	200
+Performing Arts	PerfA	Green	28	320	28	1400	200
